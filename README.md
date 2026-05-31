@@ -1,2 +1,3 @@
 # e2e32478
-AppContainer for CLAUDE.md-compliant microservice
+
+CLAUDE.md-compliant microservice application container.
